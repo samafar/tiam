@@ -2,9 +2,9 @@
 /**
  * The template for displaying archive pages
  *
- * @link https://github.com/samafar/tiam/
+ * @link https://github.com/samafar/tiam/blob/master/archive.php
  *
- * @package tiam
+ * @package Tiam
  */
 
 get_header();
