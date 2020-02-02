@@ -1,5 +1,4 @@
 <?php
-
 /**
  * The main template file
  *
@@ -7,10 +6,9 @@
  *
  * @package Tiam
  */
-
 get_header();
 ?>
 
 
-<?php 
+<?php
 get_footer();

@@ -2,7 +2,7 @@
 /**
  * The template for displaying all single posts
  *
- * @link https://github.com/samafar/tiam/
+ * @link https://github.com/samafar/tiam/blob/master/single.php
  *
  * @package tiam
  */

@@ -2,7 +2,7 @@
 /**
  * The template for displaying search results pages
  *
- * @link https://github.com/samafar/tiam/
+ * @link https://github.com/samafar/tiam/blob/master/search.php
  *
  * @package Tiam
  */
