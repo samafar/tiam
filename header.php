@@ -1,3 +1,13 @@
+<?php
+/**
+ * This is the template that displays the Header
+ *
+ * @link https://github.com/samafar/tiam/blob/master/header.php
+ *
+ * @package Tiam
+ */
+?>
+
 <!DOCTYPE html>
 <html <?php language_attributes();?>>
 <head>

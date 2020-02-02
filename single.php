@@ -4,7 +4,7 @@
  *
  * @link https://github.com/samafar/tiam/blob/master/single.php
  *
- * @package tiam
+ * @package Tiam
  */
 
 get_header();

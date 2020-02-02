@@ -2,7 +2,7 @@
 /**
  * The sidebar containing the main widget area
  *
- * @link https://github.com/samafar/tiam/
+ * @link https://github.com/samafar/tiam/blob/master/sidebar.php
  *
  * @package Tiam
  */
