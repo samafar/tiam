@@ -5,8 +5,9 @@
  * @package Tiam
  */
 
- /**Add theme support */
-get_template_part( 'functions/add-theme', 'support' );
+
+/**Add theme support */
+get_template_part( '/functions/add-theme', 'support' );
 
 /**Remove menu items from user that is not Admin */
 /* get_template_part( 'functions/remove', 'menu' ); */
@@ -19,3 +20,7 @@ get_template_part( 'functions/add', 'widgets' );
 
 // Remove junk
 get_template_part( '/functions/remove', 'junk' );
+
+
+get_template_part( '/functions/add', 'tags' );
+
