@@ -1,2 +1,2 @@
-# tiam
+# Tiam
 Tiam Wordpress Starter Theme
